@@ -7,8 +7,6 @@
     <list default="true" id="7dd706d7-880f-4959-bed9-7484a1dc6759" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/fernandobouchet/database/DatabaseApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fernandobouchet/database/DatabaseApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fernandobouchet/database/DatabaseApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fernandobouchet/database/DatabaseApplication.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Dockerfile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -39,24 +38,25 @@
 }</component>
   <component name="ProjectId" id="2aVculu4MoIRW2K9KyugE3Gv1JK" />
   <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DatabaseApplication.executor": "Run",
-    "Application.com.ferbouchet.database.DatabaseApplication.executor": "Run",
-    "Application.com.fernandobouchet.database.DatabaseApplication.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "databaseSql",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/fernandobouchet/Descargas/databaseSql/database",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DatabaseApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.ferbouchet.database.DatabaseApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.fernandobouchet.database.DatabaseApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;databaseSql&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/fernandobouchet/Descargas/databaseSql/database&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.DatabaseApplication">
     <configuration name="DatabaseApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ferbouchet.database.DatabaseApplication" />
