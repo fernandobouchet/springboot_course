@@ -1,0 +1,30 @@
+# .gitignore for Spring Boot
+
+# IDE-specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Compiled bytecode
+target/
+bin/
+out/
+
+# Dependency directories
+.m2/
+.ivy/
+.gradle/
+
+# Log files
+*.log
+log/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Spring Boot specific
+/application*.yml
+/application*.properties
+
